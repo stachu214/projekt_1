@@ -1,1 +1,1 @@
-siema mordo 
+print('hello world') 
